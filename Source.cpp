@@ -1,4 +1,5 @@
 #include<stdio.h>
+//LAB3_1
 int main() {
 	int a = 0;
 	int sum = 0;
@@ -17,4 +18,5 @@ int main() {
 	}
 	printf("%d", sum);
 	return 0;
+	//test
 }
